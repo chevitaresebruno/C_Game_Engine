@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "point2d.h": "c",
+        "error.h": "c",
+        "response.h": "c",
+        "genericfunction.h": "c"
+    }
+}
